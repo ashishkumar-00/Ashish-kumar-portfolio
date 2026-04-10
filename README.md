@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=🚀+Ashish+Kumar+Portfolio;Full+Stack+Developer+%7C+MERN+Stack;Building+Experiences%2C+Not+Just+Websites;Code+With+Purpose+%F0%9F%92%AB" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=🚀+Ashish+Kumar+Portfolio;Full+Stack+Developer+%7C+MERN+Stack;Building+Experiences%2C+Not+Just+Websites;Code+With+Purpose+%F0%9F%92%AB" alt="Typing SVG" /> -->
 
 <br/><br/>
 
@@ -158,28 +158,6 @@ This is my **personal developer portfolio** — a place where I showcase:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true" width="40%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="60%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
-</div>
-
----
 
 ## ⚡ Getting Started Locally
 
@@ -197,35 +175,27 @@ cd Ashish-kumar-portfolio
 
 ---
 
-## 📬 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5a8522cf-2906-4a93-8c8e-5323954e51e0.png" width="30" /> **Let's build something amazing together!**
-
-<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primesetup01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishkumar-00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
+<!-- Developer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 💭 *"The best way to predict the future is to build it."*
 
-### 💡 Open to Internships & Collaborations!
+**Code · Learn · Build · Deploy · Repeat** 🔁
 
-**📍 Aligarh, India** &nbsp;|&nbsp; **🌐 Open to Remote, Noida, Bengaluru**
-
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 
 </div>
